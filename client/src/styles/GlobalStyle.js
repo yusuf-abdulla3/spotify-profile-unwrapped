@@ -3,7 +3,8 @@ import fonts from './fonts';
 import variables from './variables';
 
 const GlobalStyle = createGlobalStyle`
-  ${variables};
+ ${fonts} 
+ ${variables};
 
   html {
     box-sizing: border-box;

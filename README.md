@@ -1,6 +1,8 @@
 # Spotify Profile
 
-> A full stack web app for visualizing personalized Spotify data using the Spotify API
+> A full stack web app for visualizing personalized Spotify data using the Spotify API. The app is currently deployed at: https://spotify-profile-unwrapped.herokuapp.com. Give it a try!
+
+
 
 Built with a bunch of things, but to name a few:
 
