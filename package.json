@@ -29,6 +29,7 @@
   "devDependencies": {
     "babel-plugin-styled-components": "^2.0.3",
     "concurrently": "^7.0.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "styled-components": "^5.3.3"
   }
 }
